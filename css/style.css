@@ -31,7 +31,7 @@
 }
 
 .navbar {
-    background-color: rgb(255, 255, 255);
+    background-image: radial-gradient(white, grey);
     width: 100%;
     box-shadow: 0px 4px 3px rgba(0, 0, 0, .5);
 }
@@ -73,6 +73,10 @@ form .d-flex {
 
 
 /* MAIN PRODUCTS INDEX, SMOKESHOP */
+
+body {
+    background-image: linear-gradient(to top, rgb(172, 128, 33), rgb(173, 22, 22));
+}
 
 .imgwidth {
     width: 100%;
